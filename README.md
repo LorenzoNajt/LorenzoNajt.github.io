@@ -13,3 +13,6 @@ I believe that doing science is a network activity. If the knowledge I need to a
 
 (To be filled in soon.)
 
+## Social Media:
+
+You can buy me a coffee here: ko-fi.com/lorenzonajt
