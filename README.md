@@ -17,5 +17,5 @@ Coffee donations: [ko-fi.com/lorenzonajt](https://ko-fi.com/lorenzonajt)
 
 ### Philosophy on Stack Exchange:
 
-I believe that doing science is a network activity. If the knowledge I need to advance my research goals exists is basic knowledge to some experts that I can be connected to through stack exchange, then it is my responsibility to put aside my ego and ask for help. It is unreasonable to expect to be able to replicate the same happy accidents that brought scientific communities to new insights.
+I believe that doing science is a network activity. If the knowledge I need to advance my research goals is likely basic knowledge to some experts that I can be connected to through stack exchange, then it is my responsibility as a researcher to put aside my ego and ask for help. It is unreasonable to expect to be able to replicate the same happy accidents that brought scientific communities to new insights.
 
