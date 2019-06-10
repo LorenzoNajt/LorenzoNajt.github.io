@@ -17,4 +17,4 @@ I believe that doing science is a network activity. If the knowledge I need to a
 
 Email: lnajt@math.wisc.edu
 
-You can buy me a coffee here: [ko-fi.com/lorenzonajt](https://ko-fi.com/lorenzonajt)
+Coffee donations: [ko-fi.com/lorenzonajt](https://ko-fi.com/lorenzonajt)
