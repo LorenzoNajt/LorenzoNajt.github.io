@@ -15,7 +15,7 @@ Coffee donations: [ko-fi.com/lorenzonajt](https://ko-fi.com/lorenzonajt)
 
 [This is my stack exchange profile](https://stackexchange.com/users/2174622/lorenzo) 
 
-## Philosophy on Stack Exchange:
+# Philosophy on Stack Exchange:
 
 I believe that doing science is a network activity. If the knowledge I need to advance my research goals exists is basic knowledge to some experts that I can be connected to through stack exchange, then it is my responsibility to put aside my ego and ask for help. Overall this means that I can advance more quickly towards more interesting questions.
 
