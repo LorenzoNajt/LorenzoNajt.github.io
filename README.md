@@ -40,10 +40,8 @@ Coffee donations: [ko-fi.com/lorenzonajt](https://ko-fi.com/lorenzonajt)
 ### Stack Exchange: 
 I believe that doing science is a network activity. If the knowledge I need to advance my research goals is likely to be basic knowledge to some experts who I can be connected to through stack exchange, then it is my responsibility as a researcher to put aside my ego and ask for help. It is unreasonable to expect to be able to replicate the same happy accidents that brought scientific communities to new insights.
 
-### Comparative advantage in knowledge production:
-
-
-### The intersection of productive skill and value creation:
+<!--- ### Comparative advantage in knowledge production:
+### The intersection of productive skill and value creation: --->
 
 
 
