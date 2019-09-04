@@ -20,10 +20,10 @@ Fall 2019 I am teaching Math 222/228. Supplementary material will go here.
 ## Useful links for students:
 
 ### [Wolfram alpha](https://www.wolframalpha.com/)
-Be an adult and use this to check your work, not skip work. :-)
+You can use this to check your work.
 
 ### [Stack exchange](https://math.stackexchange.com/)
-Excellent repository of questions and answers about math problems! 
+Excellent repository of questions and answers about math problems! Don't be shy about joining the community!
 
 ### [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM)
 Nice visual overview of some basic calculus concepts.
