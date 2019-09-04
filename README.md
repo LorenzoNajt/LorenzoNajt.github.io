@@ -39,7 +39,10 @@ I believe that doing science is a network activity. If the knowledge I need to a
 
 ### Other quotes for indoctrination into my belief system / assorted attempts at character signalling:
 
-"But, orderly to end where I begun/
-Our wills and fates do so contrary run/
+"But, orderly to end where I begun
+
+Our wills and fates do so contrary run
+
 That our devices still are overthrown;
+
 Our thoughts are ours, their ends none of our own."
