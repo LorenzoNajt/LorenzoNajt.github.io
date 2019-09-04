@@ -43,6 +43,8 @@ I believe that doing science is a network activity. If the knowledge I need to a
 ## Comparative advantage in knowledge production:
 
 
+## The intersection of ability and value creation:
+
 
 
 ## Other:
