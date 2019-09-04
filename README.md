@@ -45,13 +45,4 @@ I believe that doing science is a network activity. If the knowledge I need to a
 
 
 
-### Other:
-
-"But, orderly to end where I begun
-
-Our wills and fates do so contrary run
-
-That our devices still are overthrown;
-
-Our thoughts are ours, their ends none of our own."
-(Hamlet Act 3, Scene 2, Line 215)
+<!---  ### Other: "But, orderly to end where I begun \Our wills and fates do so contrary run\ That our devices still are overthrown; \Our thoughts are ours, their ends none of our own." (Hamlet Act 3, Scene 2, Line 215)--->
