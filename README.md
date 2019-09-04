@@ -15,7 +15,13 @@ In political redistricting, the compactness of a district is used as a quantitat
 
 # Teaching: 
 
-Fall 2019 I am teaching Math 222/228.
+Fall 2019 I am teaching Math 222/228. Supplementary material will go here.
+
+##Useful links for students:
+
+[Wolfram alpha](https://www.wolframalpha.com/)
+[Stack exchange](https://math.stackexchange.com/)
+[Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM)
 
 # Contact / Social Media:
 
