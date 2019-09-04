@@ -12,7 +12,6 @@ In this paper, we prove intractability results about sampling from the set of pa
 ### [The Gerrymandering Jumble: Map Projections Permute Districts' Compactness Scores](https://arxiv.org/abs/1905.03173)
 In political redistricting, the compactness of a district is used as a quantitative proxy for its fairness. Several well-established, yet competing, notions of geographic compactness are commonly used to evaluate the shapes of regions, including the Polsby-Popper score, the convex hull score, and the Reock score, and these scores are used to compare two or more districts or plans. In this paper, we prove mathematically that any map projection from the sphere to the plane reverses the ordering of the scores of some pair of regions for all three of these scores. Empirically, we demonstrate that the effect of using the Cartesian latitude-longitude projection on the order of Reock scores is quite dramatic.
 
-
 # Teaching: 
 
 Fall 2019 I am teaching Math 222/228. Supplementary material will go here.
@@ -41,7 +40,8 @@ Coffee donations: [ko-fi.com/lorenzonajt](https://ko-fi.com/lorenzonajt)
 ## Stack Exchange: 
 I believe that doing science is a network activity. If the knowledge I need to advance my research goals is likely to be basic knowledge to some experts who I can be connected to through stack exchange, then it is my responsibility as a researcher to put aside my ego and ask for help. It is unreasonable to expect to be able to replicate the same happy accidents that brought scientific communities to new insights.
 
-## Comparative Advantage in Academia:
+## Comparative advantage in knowledge production:
+
 
 
 
