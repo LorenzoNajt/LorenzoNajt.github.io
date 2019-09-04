@@ -7,18 +7,15 @@ Jan 2018 - August 2019 I was a visitor in [Justin Solomon](https://people.csail.
 
 ## Redistricting and gerrymandering:
 
-###
-
-###
-
-
-## Complexity of Sampling:
+### [Complexity and Geometry of Sampling Connected Graph Partitions](https://arxiv.org/abs/1908.08881)
+In this paper, we prove intractability results about sampling from the set of partitions of a planar graph into connected components. Our proofs are motivated by a technique introduced by Jerrum, Valiant, and Vazirani. Moreover, we use gadgets inspired by their technique to provide families of graphs where the "flip walk" Markov chain used in practice for this sampling task exhibits exponentially slow mixing. Supporting our theoretical results we present some empirical evidence demonstrating the slow mixing of the flip walk on grid graphs and on real data. Inspired by connections to the statistical physics of self-avoiding walks, we investigate the sensitivity of certain popular sampling algorithms to the graph topology. Finally, we discuss a few cases where the sampling problem is tractable. Applications to political redistricting have recently brought increased attention to this problem, and we articulate open questions about this application that are highlighted by our results.
+### [The Gerrymandering Jumble: Map Projections Permute Districts' Compactness Scores](https://arxiv.org/abs/1905.03173)
+In political redistricting, the compactness of a district is used as a quantitative proxy for its fairness. Several well-established, yet competing, notions of geographic compactness are commonly used to evaluate the shapes of regions, including the Polsby-Popper score, the convex hull score, and the Reock score, and these scores are used to compare two or more districts or plans. In this paper, we prove mathematically that any map projection from the sphere to the plane reverses the ordering of the scores of some pair of regions for all three of these scores. Empirically, we demonstrate that the effect of using the Cartesian latitude-longitude projection on the order of Reock scores is quite dramatic.
 
 
 # Teaching: 
 
-Fall 2019 I am teaching Math 222/228
-
+Fall 2019 I am teaching Math 222/228.
 
 # Contact / Social Media:
 
