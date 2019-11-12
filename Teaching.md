@@ -8,3 +8,9 @@ Excellent repository of questions and answers about math problems! Don't be shy 
 
 ### [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM)
 Nice visual overview of some basic calculus concepts.
+
+## If you need additional help:
+
+### [Mathlab](https://www.math.wisc.edu/undergraduate/mathlab)
+
+### [Tutorial Program](https://www.math.wisc.edu/undergraduate/tprogram/contact)
