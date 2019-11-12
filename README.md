@@ -17,7 +17,7 @@ We  prove  that  the  existence  of  a  polynomial  time  algorithm  that  unifo
 
 # Teaching: 
 
-Fall 2019 I am teaching Math 222/228. Supplementary material will go here.
+Fall 2019 I am teaching Math 222/228.
 
 ## Useful links for students:
 
