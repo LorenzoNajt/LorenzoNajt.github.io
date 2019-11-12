@@ -1,6 +1,5 @@
 ## About Me:
-
-
+![Photo](https://github.com/LorenzoNajt/LorenzoNajt.github.io/blob/master/CoffeeGood.jpg)
 
 I am a PhD student at the University of Wisconsin-Madison. My advisor is [Jordan Ellenberg](http://www.math.wisc.edu/~ellenber/).
 
