@@ -9,7 +9,7 @@ Jan 2018 - August 2019 I was a visitor in [Justin Solomon](https://people.csail.
 
 ## Teaching: 
 
-[Fall 2019 I am TAing Math 222/228.](https://lorenzonajt.github.io/Teaching)
+[Resources for Students](https://lorenzonajt.github.io/Teaching)
 
 # Contact / Social Media:
 
