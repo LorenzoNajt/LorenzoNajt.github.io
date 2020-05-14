@@ -5,7 +5,6 @@ I am a PhD student at the University of Wisconsin-Madison. My advisor is [Jordan
 
 Jan 2018 - August 2019 I was a visitor in [Justin Solomon](https://people.csail.mit.edu/jsolomon/)'s lab at MIT/CSAIL. I am working with his group to analyze statistical techniques currently being used to create evidence of gerrymandering. I also collaborate with members of [MGGG](https://mggg.org/).
 
-This summer I'm (virtually) interning at Los Alamos National Lab.
 
 ## Research:
 
