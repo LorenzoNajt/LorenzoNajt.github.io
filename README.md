@@ -8,7 +8,7 @@ Jan 2018 - August 2019 I was a visitor in [Justin Solomon](https://people.csail.
 
 ## Research:
 
-[See here for a list of research papers.](https://lorenzonajt.github.io/Research)
+[See here for a list of research papers and cv.](https://lorenzonajt.github.io/Research)
 
 ## Teaching: 
 
