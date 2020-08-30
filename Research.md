@@ -4,7 +4,7 @@ Here is my [CV](https://github.com/LorenzoNajt/LorenzoNajt.github.io/blob/master
 
 ## Redistricting and gerrymandering:
 
-Some of this work was featured here: https://grad.wisc.edu/2020/04/23/mathematics-research-builds-better-ways-to-identify-gerrymandering/
+Some of this work was featured [here](https://grad.wisc.edu/2020/04/23/mathematics-research-builds-better-ways-to-identify-gerrymandering/).
 
 ### [Complexity and Geometry of Sampling Connected Graph Partitions](https://arxiv.org/abs/1908.08881)
 In this paper, we prove intractability results about sampling from the set of partitions of a planar graph into connected components. Our proofs are motivated by a technique introduced by Jerrum, Valiant, and Vazirani. Moreover, we use gadgets inspired by their technique to provide families of graphs where the "flip walk" Markov chain used in practice for this sampling task exhibits exponentially slow mixing. Supporting our theoretical results we present some empirical evidence demonstrating the slow mixing of the flip walk on grid graphs and on real data. Inspired by connections to the statistical physics of self-avoiding walks, we investigate the sensitivity of certain popular sampling algorithms to the graph topology. Finally, we discuss a few cases where the sampling problem is tractable. Applications to political redistricting have recently brought increased attention to this problem, and we articulate open questions about this application that are highlighted by our results.
