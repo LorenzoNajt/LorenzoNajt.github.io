@@ -19,6 +19,7 @@ Jan 2018 - August 2019 I was a visitor in [Justin Solomon](https://people.csail.
 Email: lnajt@math.wisc.edu
 
 [This is my stack exchange profile](https://stackexchange.com/users/2174622/lorenzo) 
+[This is my github account](https://github.com/LorenzoNajt)
 
 ## Other:
 
