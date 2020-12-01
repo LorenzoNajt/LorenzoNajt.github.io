@@ -24,4 +24,4 @@ Email: lnajt@math.wisc.edu
 
 ## Other:
 
-[Thoughts](https://lorenzonajt.github.io/Thoughts)
+[Miscellaneous Thoughts](https://lorenzonajt.github.io/Thoughts)
