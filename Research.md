@@ -1,6 +1,5 @@
 # Research:
 
-Here is my [CV](https://github.com/LorenzoNajt/LorenzoNajt.github.io/blob/master/Lorenzo_NajtCV%20(5).pdf).
 
 ## Redistricting and gerrymandering:
 
